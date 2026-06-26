@@ -107,5 +107,4 @@ Developed a real-time environmental intelligence platform for monitoring air qua
 
 ---
 
-### 💫 Creating software that solves problems, not just writing code. 💫
-<h1 align="center">💫 Creating software that solves problems, not just writing code. 💫</h1> 
+<h3 align="center">💫 Creating software that solves problems, not just writing code. 💫</h3> 
