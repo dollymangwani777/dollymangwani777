@@ -1,3 +1,6 @@
+<img width="1024" height="1024" alt="github-photo" src="https://github.com/user-attachments/assets/ccbb67ee-66c9-43e9-9bcc-8abdab488908" /><p align="center">
+  <img src="github-photo.png" width="220" alt="Dolly Mangwani"/>
+</p>
 # Hi 👋, I'm Dolly Mangwani
 
 ### Full Stack Developer • Java Developer • Spring Boot • Angular • AI/ML Enthusiast
