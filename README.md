@@ -1,5 +1,5 @@
 <p align="center"> <img src="github-photo.png" alt="Dolly Mangwani" width="280"/> </p>
-### Hi 👋, I'm Dolly Mangwani
+<h1 align="center">Hi 👋, I'm Dolly Mangwani</h1> <h3 align="center"> Full Stack Developer • Java Developer • Spring Boot • Angular • AI Applications </h3>
 
 ### Full Stack Developer • Java Developer • Spring Boot • Angular • AI/ML Enthusiast
 
