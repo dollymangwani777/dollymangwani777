@@ -96,24 +96,16 @@ Developed a real-time environmental intelligence platform for monitoring air qua
 
 🏅 Active participant in hackathons and continuously building real-world software projects
 
----
-
-## 🌱 Currently Learning
-
-* Advanced Data Structures & Algorithms
-* System Design Fundamentals
-* Spring Boot Microservices
-* Large Language Models (LLMs)
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/dolly-mangwani
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: mangwanidolly777@gmail.com
 
-🐙 GitHub: github.com/yourusername
+🐙 GitHub: https://github.com/dollymangwani777
 
 ---
 
